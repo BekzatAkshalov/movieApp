@@ -1,0 +1,6 @@
+framework module Pods_publicApi_homework_publicApi_homeworkUITests {
+  umbrella header "Pods-publicApi_homework-publicApi_homeworkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
